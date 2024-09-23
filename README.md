@@ -20,7 +20,7 @@ First rates.csv is checked for conversion rates, and if no recent rate is found,
 Windows batch scripts can be found from /bat_scripts
 
 ## Example usage
-From cli:
+From command line:
 ```
 >> python converter.py 55man -s jpy -t eur
 
