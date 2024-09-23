@@ -1,0 +1,1 @@
+python D:\code_projects\currency_converter\converter.py %1 -s jpy -t eur --monthly
